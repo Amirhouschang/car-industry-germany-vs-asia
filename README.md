@@ -2,7 +2,7 @@
 
 How did car production, car sales and the adoption of electric cars develop in Germany compared with China, Japan and South Korea since 2019? This project answers the question with public data from OICA and the IEA. Python loads, cleans and checks the data and exports a small star schema. An interactive dashboard in English, German and Chinese shows the results.
 
-<!-- Live app: add the Streamlit link here after deployment -->
+**Live dashboard:** [open the app](https://car-industry-germany-vs-asia-ve5jblutzyvxbprlapnx82.streamlit.app/) · [English](https://car-industry-germany-vs-asia-ve5jblutzyvxbprlapnx82.streamlit.app/?lang=en) · [Deutsch](https://car-industry-germany-vs-asia-ve5jblutzyvxbprlapnx82.streamlit.app/?lang=de) · [中文](https://car-industry-germany-vs-asia-ve5jblutzyvxbprlapnx82.streamlit.app/?lang=zh). The app goes to sleep after a period without visitors; one click on the wake-up button starts it again. Starting takes a short moment: if the page does not load right away, wait a few seconds and reload it.
 
 ![Dashboard: production and sales](images/dashboard_overview.png)
 
