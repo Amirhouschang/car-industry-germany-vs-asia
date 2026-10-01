@@ -1,0 +1,5 @@
+country_code,country,region,is_reference
+DEU,Germany,Europe,True
+CHN,China,Asia,False
+JPN,Japan,Asia,False
+KOR,South Korea,Asia,False
