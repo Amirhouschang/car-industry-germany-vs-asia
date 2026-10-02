@@ -193,3 +193,9 @@ The raw files are the original downloads from OICA and the IEA; the terms of use
 - OICA: [oica.net](https://www.oica.net), production and sales statistics (passenger cars).
 - IEA: [Global EV Outlook 2026](https://www.iea.org/reports/global-ev-outlook-2026) and the accompanying data file.
 - China, OICA vs. IEA: [Gasgoo, China's 2025 auto market](https://autonews.gasgoo.com/articles/news/chinas-2025-auto-market-hits-new-highs-in-both-annual-sales-output-2011438280283627520). More sources for China, Japan and South Korea are linked in Section 12 of the notebook.
+
+---
+
+## Rights
+
+© 2026 Amirhoushang Rahmannejad. All rights reserved. You are welcome to read and review this project. Copying, modifying or redistributing it requires my written permission.
